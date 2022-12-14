@@ -44,3 +44,5 @@ First, you should install `yarn` library.
     ```node 
     yarn un
     ```
+
+You should modify files in `src` for getting more data.
