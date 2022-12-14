@@ -1,5 +1,5 @@
 {
-  "name": "countries detail list",
+  "name": "countries_detail_list",
   "version": "1.0.0",
   "description": "countries and provinces or states .etc",
   "main": "index.ts",
