@@ -121,7 +121,7 @@ db.all(`SELECT * FROM ne_10m_admin_0_countries where type="Sovereign country" or
       fs.mkdirSync(dirName);
   }
 
-  let list = JSON.stringify(Object.keys(countries).sort((a, b) => a < b ? -1 : a > b ? 1: 0).map(k => countries[k]));
+  let list = JSON.stringify(Object.keys(countries).sort((a, b) => a < b ? -1 : a > b ? 1: 0).map(k => countries[k]), null, 4);
   fs.writeFileSync(file, `export const countriesAreasProvinces = ${list};`);  
 });
 

@@ -42,7 +42,7 @@ https.get(url, (res) => {
                 fs.mkdirSync(dirName);
             }
 
-            fs.writeFileSync(file, `export const countriesAreas = ${JSON.stringify(eng)};`);
+            fs.writeFileSync(file, `export const countriesAreas = ${JSON.stringify(eng, null, 4)};`);
         });
     }
 
