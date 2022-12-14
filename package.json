@@ -1,5 +1,5 @@
 {
-  "name": "countries_detail_include_areas",
+  "name": "countries_detail_include_areas_and provinces_or_states",
   "version": "1.0.0",
   "description": "countries and provinces or states .etc",
   "main": "index.ts",
