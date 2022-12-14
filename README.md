@@ -10,7 +10,9 @@
   <sup>
   </sup>
   <br />
+  <div align="center" style="display:none;">
   <pre>npm i <a href="https://github.dev/toodiff/country-area-list">country-area-list</a></pre>
+  </div>
   <br />
   <br />
 </div>
