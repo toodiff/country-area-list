@@ -37,7 +37,7 @@ First, you should install `yarn` library.
     yarn start
     ```
 
-- crawl data from [un.org](https://unstats.un.org/unsd/methodology/m49/)spider
+- crawl data from [un.org](https://unstats.un.org/unsd/methodology/m49/)
 
     Execute the following command and genetate data file. Data file is in `file/countries_areas.ts`
 
