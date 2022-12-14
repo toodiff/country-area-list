@@ -8,7 +8,7 @@
   "type-bak": "module",
   "scripts": {
     "start": "ts-node --esm ./src/index.ts",
-    "un": "ts-node --esm ./src/scrap.ts"
+    "un": "ts-node --esm ./src/spider.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.14",
