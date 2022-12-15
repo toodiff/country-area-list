@@ -5,7 +5,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "AFG",
         "iso_n3": "004",
         "iso_a2": "AF",
-        "iso_code": "AF",
+        "iso_code": "AFG",
         "subs": [
             {
                 "name_zh": "巴达赫尚省",
@@ -287,7 +287,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "AGO",
         "iso_n3": "024",
         "iso_a2": "AO",
-        "iso_code": "AO",
+        "iso_code": "AGO",
         "subs": [
             {
                 "name_zh": "卡宾达省",
@@ -441,7 +441,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ALB",
         "iso_n3": "008",
         "iso_a2": "AL",
-        "iso_code": "AL",
+        "iso_code": "ALB",
         "subs": [
             {
                 "name_zh": "迪勃拉州",
@@ -547,7 +547,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "AND",
         "iso_n3": "020",
         "iso_a2": "AD",
-        "iso_code": "AD",
+        "iso_code": "AND",
         "subs": [
             {
                 "name_zh": "奥尔迪诺",
@@ -613,7 +613,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ARE",
         "iso_n3": "784",
         "iso_a2": "AE",
-        "iso_code": "AE",
+        "iso_code": "ARE",
         "subs": [
             {
                 "name_zh": "富查伊拉市",
@@ -695,7 +695,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ARG",
         "iso_n3": "032",
         "iso_a2": "AR",
-        "iso_code": "AR",
+        "iso_code": "ARG",
         "subs": [
             {
                 "name_zh": "恩特雷里奥斯省",
@@ -897,7 +897,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ARM",
         "iso_n3": "051",
         "iso_a2": "AM",
-        "iso_code": "AM",
+        "iso_code": "ARM",
         "subs": [
             {
                 "name_zh": "塔武什省",
@@ -995,7 +995,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ATG",
         "iso_n3": "028",
         "iso_a2": "AG",
-        "iso_code": "AG",
+        "iso_code": "ATG",
         "subs": [
             {
                 "name_zh": "圣保罗区",
@@ -1069,7 +1069,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "AUS",
         "iso_n3": "036",
         "iso_a2": "AU",
-        "iso_code": "AU",
+        "iso_code": "AUS",
         "subs": [
             {
                 "name_zh": "西澳大利亚州",
@@ -1167,7 +1167,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "AUT",
         "iso_n3": "040",
         "iso_a2": "AT",
-        "iso_code": "AT",
+        "iso_code": "AUT",
         "subs": [
             {
                 "name_zh": "下奥地利州",
@@ -1249,7 +1249,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "AZE",
         "iso_n3": "031",
         "iso_a2": "AZ",
-        "iso_code": "AZ",
+        "iso_code": "AZE",
         "subs": [
             {
                 "name_zh": "哈萨克区",
@@ -1883,7 +1883,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BDI",
         "iso_n3": "108",
         "iso_a2": "BI",
-        "iso_code": "BI",
+        "iso_code": "BDI",
         "subs": [
             {
                 "name_zh": "穆因加省",
@@ -2029,7 +2029,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BEL",
         "iso_n3": "056",
         "iso_a2": "BE",
-        "iso_code": "BE",
+        "iso_code": "BEL",
         "subs": [
             {
                 "name_zh": "西弗兰德省",
@@ -2127,7 +2127,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BEN",
         "iso_n3": "204",
         "iso_a2": "BJ",
-        "iso_code": "BJ",
+        "iso_code": "BEN",
         "subs": [
             {
                 "name_zh": "阿黎博里省",
@@ -2233,7 +2233,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BFA",
         "iso_n3": "854",
         "iso_a2": "BF",
-        "iso_code": "BF",
+        "iso_code": "BFA",
         "subs": [
             {
                 "name_zh": "塔波阿省",
@@ -2603,7 +2603,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BGD",
         "iso_n3": "050",
         "iso_a2": "BD",
-        "iso_code": "BD",
+        "iso_code": "BGD",
         "subs": [
             {
                 "name_zh": "吉大港专区",
@@ -2669,7 +2669,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BGR",
         "iso_n3": "100",
         "iso_a2": "BG",
-        "iso_code": "BG",
+        "iso_code": "BGR",
         "subs": [
             {
                 "name_zh": "布尔加斯州",
@@ -2903,7 +2903,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BHR",
         "iso_n3": "048",
         "iso_a2": "BH",
-        "iso_code": "BH",
+        "iso_code": "BHR",
         "subs": [
             {
                 "name_zh": "首都省",
@@ -2953,7 +2953,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BHS",
         "iso_n3": "044",
         "iso_a2": "BS",
-        "iso_code": "BS",
+        "iso_code": "BHS",
         "subs": [
             {
                 "name_zh": "那瓜岛",
@@ -3203,7 +3203,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BIH",
         "iso_n3": "070",
         "iso_a2": "BA",
-        "iso_code": "BA",
+        "iso_code": "BIH",
         "subs": [
             {
                 "name_zh": "黑塞哥维那-涅雷特瓦州",
@@ -3357,7 +3357,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BLR",
         "iso_n3": "112",
         "iso_a2": "BY",
-        "iso_code": "BY",
+        "iso_code": "BLR",
         "subs": [
             {
                 "name_zh": "戈梅利州",
@@ -3423,7 +3423,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BLZ",
         "iso_n3": "084",
         "iso_a2": "BZ",
-        "iso_code": "BZ",
+        "iso_code": "BLZ",
         "subs": [
             {
                 "name_zh": "卡约区",
@@ -3481,7 +3481,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BOL",
         "iso_n3": "068",
         "iso_a2": "BO",
-        "iso_code": "BO",
+        "iso_code": "BOL",
         "subs": [
             {
                 "name_zh": "拉巴斯省",
@@ -3563,7 +3563,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BRA",
         "iso_n3": "076",
         "iso_a2": "BR",
-        "iso_code": "BR",
+        "iso_code": "BRA",
         "subs": [
             {
                 "name_zh": "南里奥格兰德州",
@@ -3789,7 +3789,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BRB",
         "iso_n3": "052",
         "iso_a2": "BB",
-        "iso_code": "BB",
+        "iso_code": "BRB",
         "subs": [
             {
                 "name_zh": "聖約瑟夫區",
@@ -3887,7 +3887,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BRN",
         "iso_n3": "096",
         "iso_a2": "BN",
-        "iso_code": "BN",
+        "iso_code": "BRN",
         "subs": [
             {
                 "name_zh": "淡布隆县",
@@ -3929,7 +3929,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BTN",
         "iso_n3": "064",
         "iso_a2": "BT",
-        "iso_code": "BT",
+        "iso_code": "BTN",
         "subs": [
             {
                 "name_zh": "塔希央奇宗",
@@ -4099,7 +4099,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "BWA",
         "iso_n3": "072",
         "iso_a2": "BW",
-        "iso_code": "BW",
+        "iso_code": "BWA",
         "subs": [
             {
                 "name_zh": "西北区",
@@ -4229,7 +4229,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CAF",
         "iso_n3": "140",
         "iso_a2": "CF",
-        "iso_code": "CF",
+        "iso_code": "CAF",
         "subs": [
             {
                 "name_zh": "瓦卡加省",
@@ -4375,7 +4375,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CAN",
         "iso_n3": "124",
         "iso_a2": "CA",
-        "iso_code": "CA",
+        "iso_code": "CAN",
         "subs": [
             {
                 "name_zh": "不列颠哥伦比亚",
@@ -4489,7 +4489,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CHE",
         "iso_n3": "756",
         "iso_a2": "CH",
-        "iso_code": "CH",
+        "iso_code": "CHE",
         "subs": [
             {
                 "name_zh": "瓦莱州",
@@ -4707,7 +4707,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CHL",
         "iso_n3": "152",
         "iso_a2": "CL",
-        "iso_code": "CL",
+        "iso_code": "CHL",
         "subs": [
             {
                 "name_zh": "阿里卡和帕里纳科塔大区",
@@ -4845,7 +4845,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CHN",
         "iso_n3": "156",
         "iso_a2": "CN",
-        "iso_code": "CN",
+        "iso_code": "CHN",
         "subs": [
             {
                 "name_zh": "新疆维吾尔自治区",
@@ -5101,7 +5101,7 @@ export const countriesAreasProvinces = [
                 "iso_a3": "HKG",
                 "iso_n3": "344",
                 "iso_a2": "HK",
-                "iso_code": "HK",
+                "iso_code": "HKG",
                 "subs": [
                     {
                         "name_zh": "北",
@@ -5433,7 +5433,7 @@ export const countriesAreasProvinces = [
                 "iso_a3": "MAC",
                 "iso_n3": "446",
                 "iso_a2": "MO",
-                "iso_code": "MO",
+                "iso_code": "MAC",
                 "subs": [
                     {
                         "name_zh": "澳门",
@@ -5453,7 +5453,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CIV",
         "iso_n3": "384",
         "iso_a2": "CI",
-        "iso_code": "CI",
+        "iso_code": "CIV",
         "subs": [
             {
                 "name_zh": "登盖莱区",
@@ -5615,7 +5615,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CMR",
         "iso_n3": "120",
         "iso_a2": "CM",
-        "iso_code": "CM",
+        "iso_code": "CMR",
         "subs": [
             {
                 "name_zh": "南部区",
@@ -5705,7 +5705,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "COD",
         "iso_n3": "180",
         "iso_a2": "CD",
-        "iso_code": "CD",
+        "iso_code": "COD",
         "subs": [
             {
                 "name_zh": "赤道省",
@@ -5803,7 +5803,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "COG",
         "iso_n3": "178",
         "iso_a2": "CG",
-        "iso_code": "CG",
+        "iso_code": "COG",
         "subs": [
             {
                 "name_zh": "利夸拉省",
@@ -5909,7 +5909,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "COL",
         "iso_n3": "170",
         "iso_a2": "CO",
-        "iso_code": "CO",
+        "iso_code": "COL",
         "subs": [
             {
                 "name_zh": "纳里尼奥省",
@@ -6191,7 +6191,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "COM",
         "iso_n3": "174",
         "iso_a2": "KM",
-        "iso_code": "KM",
+        "iso_code": "COM",
         "subs": [
             {
                 "name_zh": "莫埃利岛",
@@ -6225,7 +6225,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CPV",
         "iso_n3": "132",
         "iso_a2": "CV",
-        "iso_code": "CV",
+        "iso_code": "CPV",
         "subs": [
             {
                 "name_zh": "布拉瓦岛县",
@@ -6411,7 +6411,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CRI",
         "iso_n3": "188",
         "iso_a2": "CR",
-        "iso_code": "CR",
+        "iso_code": "CRI",
         "subs": [
             {
                 "name_zh": "阿拉胡埃拉省",
@@ -6477,7 +6477,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CYP",
         "iso_n3": "196",
         "iso_a2": "CY",
-        "iso_code": "CY",
+        "iso_code": "CYP",
         "subs": [
             {
                 "name_zh": "拉纳卡区",
@@ -6527,7 +6527,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "CZE",
         "iso_n3": "203",
         "iso_a2": "CZ",
-        "iso_code": "CZ",
+        "iso_code": "CZE",
         "subs": [
             {
                 "name_zh": "乌斯季州",
@@ -6649,7 +6649,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "DEU",
         "iso_n3": "276",
         "iso_a2": "DE",
-        "iso_code": "DE",
+        "iso_code": "DEU",
         "subs": [
             {
                 "name_zh": "萨克森",
@@ -6787,7 +6787,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "DJI",
         "iso_n3": "262",
         "iso_a2": "DJ",
-        "iso_code": "DJ",
+        "iso_code": "DJI",
         "subs": [
             {
                 "name_zh": "阿里萨比州",
@@ -6845,7 +6845,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "DMA",
         "iso_n3": "212",
         "iso_a2": "DM",
-        "iso_code": "DM",
+        "iso_code": "DMA",
         "subs": [
             {
                 "name_zh": "圣帕特里克堂区",
@@ -6935,7 +6935,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "DNK",
         "iso_n3": "208",
         "iso_a2": "DK",
-        "iso_code": "DK",
+        "iso_code": "DNK",
         "subs": [
             {
                 "name_zh": "南丹麦大区",
@@ -6985,7 +6985,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "DOM",
         "iso_n3": "214",
         "iso_a2": "DO",
-        "iso_code": "DO",
+        "iso_code": "DOM",
         "subs": [
             {
                 "name_zh": "基度山省",
@@ -7251,7 +7251,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "DZA",
         "iso_n3": "012",
         "iso_a2": "DZ",
-        "iso_code": "DZ",
+        "iso_code": "DZA",
         "subs": [
             {
                 "name_zh": "阿德拉尔省",
@@ -7645,7 +7645,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ECU",
         "iso_n3": "218",
         "iso_a2": "EC",
-        "iso_code": "EC",
+        "iso_code": "ECU",
         "subs": [
             {
                 "name_zh": "埃斯梅拉达斯省",
@@ -7847,7 +7847,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "EGY",
         "iso_n3": "818",
         "iso_a2": "EG",
-        "iso_code": "EG",
+        "iso_code": "EGY",
         "subs": [
             {
                 "name_zh": "北西奈省",
@@ -8073,7 +8073,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ERI",
         "iso_n3": "232",
         "iso_a2": "ER",
-        "iso_code": "ER",
+        "iso_code": "ERI",
         "subs": [
             {
                 "name_zh": "南红海区",
@@ -8131,7 +8131,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ESP",
         "iso_n3": "724",
         "iso_a2": "ES",
-        "iso_code": "ES",
+        "iso_code": "ESP",
         "subs": [
             {
                 "name_zh": "休达",
@@ -8557,7 +8557,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "EST",
         "iso_n3": "233",
         "iso_a2": "EE",
-        "iso_code": "EE",
+        "iso_code": "EST",
         "subs": [
             {
                 "name_zh": "维尔扬迪县",
@@ -8687,7 +8687,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ETH",
         "iso_n3": "231",
         "iso_a2": "ET",
-        "iso_code": "ET",
+        "iso_code": "ETH",
         "subs": [
             {
                 "name_zh": "南方各族州",
@@ -8785,7 +8785,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "FIN",
         "iso_n3": "246",
         "iso_a2": "FI",
-        "iso_code": "FI",
+        "iso_code": "FIN",
         "subs": [
             {
                 "name_zh": "拉普蘭區",
@@ -8939,7 +8939,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "FJI",
         "iso_n3": "242",
         "iso_a2": "FJ",
-        "iso_code": "FJ",
+        "iso_code": "FJI",
         "subs": [
             {
                 "name_zh": "东部大区",
@@ -8989,7 +8989,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "FSM",
         "iso_n3": "583",
         "iso_a2": "FM",
-        "iso_code": "FM",
+        "iso_code": "FSM",
         "subs": [
             {
                 "name_zh": "科斯雷",
@@ -9031,7 +9031,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GAB",
         "iso_n3": "266",
         "iso_a2": "GA",
-        "iso_code": "GA",
+        "iso_code": "GAB",
         "subs": [
             {
                 "name_zh": "沃勒-恩特姆省",
@@ -9113,7 +9113,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GBR",
         "iso_n3": "826",
         "iso_a2": "GB",
-        "iso_code": "GB",
+        "iso_code": "GBR",
         "subs": [
             {
                 "name_zh": "德里區",
@@ -10979,7 +10979,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GEO",
         "iso_n3": "268",
         "iso_a2": "GE",
-        "iso_code": "GE",
+        "iso_code": "GEO",
         "subs": [
             {
                 "name_zh": "阿布哈兹",
@@ -11085,7 +11085,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GGY",
         "iso_n3": "831",
         "iso_a2": "GG",
-        "iso_code": "GG",
+        "iso_code": "GGY",
         "subs": [
             {
                 "name_zh": "萨克岛",
@@ -11103,7 +11103,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GHA",
         "iso_n3": "288",
         "iso_a2": "GH",
-        "iso_code": "GH",
+        "iso_code": "GHA",
         "subs": [
             {
                 "name_zh": "东北地区",
@@ -11193,7 +11193,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GIN",
         "iso_n3": "324",
         "iso_a2": "GN",
-        "iso_code": "GN",
+        "iso_code": "GIN",
         "subs": [
             {
                 "name_zh": "法拉纳大区",
@@ -11475,7 +11475,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GMB",
         "iso_n3": "270",
         "iso_a2": "GM",
-        "iso_code": "GM",
+        "iso_code": "GMB",
         "subs": [
             {
                 "name_zh": "中河区",
@@ -11533,7 +11533,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GNB",
         "iso_n3": "624",
         "iso_a2": "GW",
-        "iso_code": "GW",
+        "iso_code": "GNB",
         "subs": [
             {
                 "name_zh": "加布区",
@@ -11615,7 +11615,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GNQ",
         "iso_n3": "226",
         "iso_a2": "GQ",
-        "iso_code": "GQ",
+        "iso_code": "GNQ",
         "subs": [
             {
                 "name_zh": "海岸省",
@@ -11681,7 +11681,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GRC",
         "iso_n3": "300",
         "iso_a2": "GR",
-        "iso_code": "GR",
+        "iso_code": "GRC",
         "subs": [
             {
                 "name_zh": "西马其顿",
@@ -11803,7 +11803,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GRD",
         "iso_n3": "308",
         "iso_a2": "GD",
-        "iso_code": "GD",
+        "iso_code": "GRD",
         "subs": [
             {
                 "name_zh": "圣乔治区",
@@ -11869,7 +11869,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GTM",
         "iso_n3": "320",
         "iso_a2": "GT",
-        "iso_code": "GT",
+        "iso_code": "GTM",
         "subs": [
             {
                 "name_zh": "胡蒂亚帕省",
@@ -12055,7 +12055,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "GUY",
         "iso_n3": "328",
         "iso_a2": "GY",
-        "iso_code": "GY",
+        "iso_code": "GUY",
         "subs": [
             {
                 "name_zh": "马海卡-伯比斯区",
@@ -12145,7 +12145,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "HND",
         "iso_n3": "340",
         "iso_a2": "HN",
-        "iso_code": "HN",
+        "iso_code": "HND",
         "subs": [
             {
                 "name_zh": "奥科特佩克省",
@@ -12299,7 +12299,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "HRV",
         "iso_n3": "191",
         "iso_a2": "HR",
-        "iso_code": "HR",
+        "iso_code": "HRV",
         "subs": [
             {
                 "name_zh": "梅吉穆列县",
@@ -12477,7 +12477,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "HTI",
         "iso_n3": "332",
         "iso_a2": "HT",
-        "iso_code": "HT",
+        "iso_code": "HTI",
         "subs": [
             {
                 "name_zh": "东北省",
@@ -12567,7 +12567,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "HUN",
         "iso_n3": "348",
         "iso_a2": "HU",
-        "iso_code": "HU",
+        "iso_code": "HUN",
         "subs": [
             {
                 "name_zh": "索博尔奇-索特马尔-贝拉格州",
@@ -12921,7 +12921,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "IDN",
         "iso_n3": "360",
         "iso_a2": "ID",
-        "iso_code": "ID",
+        "iso_code": "IDN",
         "subs": [
             {
                 "name_zh": "东加里曼丹省",
@@ -13195,7 +13195,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "IMN",
         "iso_n3": "833",
         "iso_a2": "IM",
-        "iso_code": "IM",
+        "iso_code": "IMN",
         "subs": [
             {
                 "name_zh": "马恩岛",
@@ -13213,7 +13213,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "IND",
         "iso_n3": "356",
         "iso_a2": "IN",
-        "iso_code": "IN",
+        "iso_code": "IND",
         "subs": [
             {
                 "name_zh": "拉达克",
@@ -13511,7 +13511,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "IRL",
         "iso_n3": "372",
         "iso_a2": "IE",
-        "iso_code": "IE",
+        "iso_code": "IRL",
         "subs": [
             {
                 "name_zh": "多尼戈尔郡",
@@ -13793,7 +13793,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "IRN",
         "iso_n3": "364",
         "iso_a2": "IR",
-        "iso_code": "IR",
+        "iso_code": "IRN",
         "subs": [
             {
                 "name_zh": "西亚塞拜然省",
@@ -14051,7 +14051,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "IRQ",
         "iso_n3": "368",
         "iso_a2": "IQ",
-        "iso_code": "IQ",
+        "iso_code": "IRQ",
         "subs": [
             {
                 "name_zh": "杜胡克省",
@@ -14205,7 +14205,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ISL",
         "iso_n3": "352",
         "iso_a2": "IS",
-        "iso_code": "IS",
+        "iso_code": "ISL",
         "subs": [
             {
                 "name_zh": "东部区",
@@ -14287,7 +14287,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ITA",
         "iso_n3": "380",
         "iso_a2": "IT",
-        "iso_code": "IT",
+        "iso_code": "ITA",
         "subs": [
             {
                 "name_zh": "奥斯塔",
@@ -15177,7 +15177,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "JAM",
         "iso_n3": "388",
         "iso_a2": "JM",
-        "iso_code": "JM",
+        "iso_code": "JAM",
         "subs": [
             {
                 "name_zh": "圣安娜区",
@@ -15299,7 +15299,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "JEY",
         "iso_n3": "832",
         "iso_a2": "JE",
-        "iso_code": "JE",
+        "iso_code": "JEY",
         "subs": [
             {
                 "name_zh": "泽西",
@@ -15317,7 +15317,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "JOR",
         "iso_n3": "400",
         "iso_a2": "JO",
-        "iso_code": "JO",
+        "iso_code": "JOR",
         "subs": [
             {
                 "name_zh": "伊尔比德省",
@@ -15423,7 +15423,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "JPN",
         "iso_n3": "392",
         "iso_a2": "JP",
-        "iso_code": "JP",
+        "iso_code": "JPN",
         "subs": [
             {
                 "name_zh": "鹿儿岛县",
@@ -15809,7 +15809,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KEN",
         "iso_n3": "404",
         "iso_a2": "KE",
-        "iso_code": "KE",
+        "iso_code": "KEN",
         "subs": [
             {
                 "name_zh": "裂谷省",
@@ -15883,7 +15883,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KGZ",
         "iso_n3": "417",
         "iso_a2": "KG",
-        "iso_code": "KG",
+        "iso_code": "KGZ",
         "subs": [
             {
                 "name_zh": "伊塞克湖州",
@@ -15957,7 +15957,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KHM",
         "iso_n3": "116",
         "iso_a2": "KH",
-        "iso_code": "KH",
+        "iso_code": "KHM",
         "subs": [
             {
                 "name_zh": "腊塔纳基里省",
@@ -16159,7 +16159,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KIR",
         "iso_n3": "296",
         "iso_a2": "KI",
-        "iso_code": "KI",
+        "iso_code": "KIR",
         "subs": [
             {
                 "name_zh": "基里巴斯",
@@ -16185,7 +16185,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KNA",
         "iso_n3": "659",
         "iso_a2": "KN",
-        "iso_code": "KN",
+        "iso_code": "KNA",
         "subs": [
             {
                 "name_zh": "圣保罗查尔斯敦区",
@@ -16307,7 +16307,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KOR",
         "iso_n3": "410",
         "iso_a2": "KR",
-        "iso_code": "KR",
+        "iso_code": "KOR",
         "subs": [
             {
                 "name_zh": "江原道",
@@ -16453,7 +16453,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "KWT",
         "iso_n3": "414",
         "iso_a2": "KW",
-        "iso_code": "KW",
+        "iso_code": "KWT",
         "subs": [
             {
                 "name_zh": "杰赫拉省",
@@ -16511,7 +16511,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LAO",
         "iso_n3": "418",
         "iso_a2": "LA",
-        "iso_code": "LA",
+        "iso_code": "LAO",
         "subs": [
             {
                 "name_zh": "丰沙里省",
@@ -16657,7 +16657,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LBN",
         "iso_n3": "422",
         "iso_a2": "LB",
-        "iso_code": "LB",
+        "iso_code": "LBN",
         "subs": [
             {
                 "name_zh": "纳巴泰省",
@@ -16715,7 +16715,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LBR",
         "iso_n3": "430",
         "iso_a2": "LR",
-        "iso_code": "LR",
+        "iso_code": "LBR",
         "subs": [
             {
                 "name_zh": "大角山县",
@@ -16845,7 +16845,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LBY",
         "iso_n3": "434",
         "iso_a2": "LY",
-        "iso_code": "LY",
+        "iso_code": "LBY",
         "subs": [
             {
                 "name_zh": "古达米斯",
@@ -17031,7 +17031,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LCA",
         "iso_n3": "662",
         "iso_a2": "LC",
-        "iso_code": "LC",
+        "iso_code": "LCA",
         "subs": [
             {
                 "name_zh": "格罗斯伊斯勒区",
@@ -17129,7 +17129,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LIE",
         "iso_n3": "438",
         "iso_a2": "LI",
-        "iso_code": "LI",
+        "iso_code": "LIE",
         "subs": [
             {
                 "name_zh": "特里森",
@@ -17227,7 +17227,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LKA",
         "iso_n3": "144",
         "iso_a2": "LK",
-        "iso_code": "LK",
+        "iso_code": "LKA",
         "subs": [
             {
                 "name_zh": "亭可馬里區",
@@ -17437,7 +17437,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LSO",
         "iso_n3": "426",
         "iso_a2": "LS",
-        "iso_code": "LS",
+        "iso_code": "LSO",
         "subs": [
             {
                 "name_zh": "莫霍特隆区",
@@ -17527,7 +17527,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LTU",
         "iso_n3": "440",
         "iso_a2": "LT",
-        "iso_code": "LT",
+        "iso_code": "LTU",
         "subs": [
             {
                 "name_zh": "乌泰纳县",
@@ -17617,7 +17617,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LUX",
         "iso_n3": "442",
         "iso_a2": "LU",
-        "iso_code": "LU",
+        "iso_code": "LUX",
         "subs": [
             {
                 "name_zh": "迪基希区",
@@ -17651,7 +17651,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "LVA",
         "iso_n3": "428",
         "iso_a2": "LV",
-        "iso_code": "LV",
+        "iso_code": "LVA",
         "subs": [
             {
                 "name_zh": "瓦尔米耶拉",
@@ -18613,7 +18613,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MAR",
         "iso_n3": "504",
         "iso_a2": "MA",
-        "iso_code": "MA",
+        "iso_code": "MAR",
         "subs": [
             {
                 "name_zh": "盖勒敏-塞马拉大区",
@@ -18751,7 +18751,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MCO",
         "iso_n3": "492",
         "iso_a2": "MC",
-        "iso_code": "MC",
+        "iso_code": "MCO",
         "subs": [
             {
                 "name_zh": "摩纳哥城",
@@ -18769,7 +18769,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MDA",
         "iso_n3": "498",
         "iso_a2": "MD",
-        "iso_code": "MD",
+        "iso_code": "MDA",
         "subs": [
             {
                 "name_zh": "布里切尼区",
@@ -19099,7 +19099,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MDG",
         "iso_n3": "450",
         "iso_a2": "MG",
-        "iso_code": "MG",
+        "iso_code": "MDG",
         "subs": [
             {
                 "name_zh": "博爱尼",
@@ -19285,7 +19285,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MDV",
         "iso_n3": "462",
         "iso_a2": "MV",
-        "iso_code": "MV",
+        "iso_code": "MDV",
         "subs": [
             {
                 "name_zh": "阿杜环礁",
@@ -19463,7 +19463,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MEX",
         "iso_n3": "484",
         "iso_a2": "MX",
-        "iso_code": "MX",
+        "iso_code": "MEX",
         "subs": [
             {
                 "name_zh": "索诺拉州",
@@ -19737,7 +19737,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MHL",
         "iso_n3": "584",
         "iso_a2": "MH",
-        "iso_code": "MH",
+        "iso_code": "MHL",
         "subs": [
             {
                 "name_zh": "拉利克礁链",
@@ -19763,7 +19763,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MKD",
         "iso_n3": "807",
         "iso_a2": "MK",
-        "iso_code": "MK",
+        "iso_code": "MKD",
         "subs": [
             {
                 "name_zh": "斯特鲁加区",
@@ -20445,7 +20445,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MLI",
         "iso_n3": "466",
         "iso_a2": "ML",
-        "iso_code": "ML",
+        "iso_code": "MLI",
         "subs": [
             {
                 "name_zh": "卡伊区",
@@ -20527,7 +20527,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MLT",
         "iso_n3": "470",
         "iso_a2": "MT",
-        "iso_code": "MT",
+        "iso_code": "MLT",
         "subs": [
             {
                 "name_zh": "麦基基",
@@ -21081,7 +21081,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MMR",
         "iso_n3": "104",
         "iso_a2": "MM",
-        "iso_code": "MM",
+        "iso_code": "MMR",
         "subs": [
             {
                 "name_zh": "若开邦",
@@ -21203,7 +21203,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MNE",
         "iso_n3": "499",
         "iso_a2": "ME",
-        "iso_code": "ME",
+        "iso_code": "MNE",
         "subs": [
             {
                 "name_zh": "赫尔采格诺维区",
@@ -21381,7 +21381,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MNG",
         "iso_n3": "496",
         "iso_a2": "MN",
-        "iso_code": "MN",
+        "iso_code": "MNG",
         "subs": [
             {
                 "name_zh": "东方省",
@@ -21567,7 +21567,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MOZ",
         "iso_n3": "508",
         "iso_a2": "MZ",
-        "iso_code": "MZ",
+        "iso_code": "MOZ",
         "subs": [
             {
                 "name_zh": "马普托省",
@@ -21665,7 +21665,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MRT",
         "iso_n3": "478",
         "iso_a2": "MR",
-        "iso_code": "MR",
+        "iso_code": "MRT",
         "subs": [
             {
                 "name_zh": "提里斯-宰穆尔省",
@@ -21779,7 +21779,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MUS",
         "iso_n3": "480",
         "iso_a2": "MU",
-        "iso_code": "MU",
+        "iso_code": "MUS",
         "subs": [
             {
                 "name_zh": "朗帕河区",
@@ -21917,7 +21917,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MWI",
         "iso_n3": "454",
         "iso_a2": "MW",
-        "iso_code": "MW",
+        "iso_code": "MWI",
         "subs": [
             {
                 "name_zh": "奇蒂帕县",
@@ -22151,7 +22151,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "MYS",
         "iso_n3": "458",
         "iso_a2": "MY",
-        "iso_code": "MY",
+        "iso_code": "MYS",
         "subs": [
             {
                 "name_zh": "沙巴",
@@ -22289,7 +22289,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NAM",
         "iso_n3": "516",
         "iso_a2": "NA",
-        "iso_code": "NA",
+        "iso_code": "NAM",
         "subs": [
             {
                 "name_zh": "卡拉斯区",
@@ -22403,7 +22403,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NER",
         "iso_n3": "562",
         "iso_a2": "NE",
-        "iso_code": "NE",
+        "iso_code": "NER",
         "subs": [
             {
                 "name_zh": "塔瓦大区",
@@ -22477,7 +22477,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NGA",
         "iso_n3": "566",
         "iso_a2": "NG",
-        "iso_code": "NG",
+        "iso_code": "NGA",
         "subs": [
             {
                 "name_zh": "凯比州",
@@ -22783,7 +22783,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NIC",
         "iso_n3": "558",
         "iso_a2": "NI",
-        "iso_code": "NI",
+        "iso_code": "NIC",
         "subs": [
             {
                 "name_zh": "圣胡安河省",
@@ -22929,7 +22929,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NLD",
         "iso_n3": "528",
         "iso_a2": "NL",
-        "iso_code": "NL",
+        "iso_code": "NLD",
         "subs": [
             {
                 "name_zh": "格罗宁根省",
@@ -23059,7 +23059,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NPL",
         "iso_n3": "524",
         "iso_a2": "NP",
-        "iso_code": "NP",
+        "iso_code": "NPL",
         "subs": [
             {
                 "name_zh": "格尔纳利专区",
@@ -23181,7 +23181,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NRU",
         "iso_n3": "520",
         "iso_a2": "NR",
-        "iso_code": "NR",
+        "iso_code": "NRU",
         "subs": [
             {
                 "name_zh": "安鄂滩区",
@@ -23303,7 +23303,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "NZL",
         "iso_n3": "554",
         "iso_a2": "NZ",
-        "iso_code": "NZ",
+        "iso_code": "NZL",
         "subs": [
             {
                 "name_zh": "奥克兰群岛",
@@ -23505,7 +23505,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "OMN",
         "iso_n3": "512",
         "iso_a2": "OM",
-        "iso_code": "OM",
+        "iso_code": "OMN",
         "subs": [
             {
                 "name_zh": "穆桑代姆省",
@@ -23603,7 +23603,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PAK",
         "iso_n3": "586",
         "iso_a2": "PK",
-        "iso_code": "PK",
+        "iso_code": "PAK",
         "subs": [
             {
                 "name_zh": "吉尔吉特－巴尔蒂斯坦",
@@ -23677,7 +23677,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PAN",
         "iso_n3": "591",
         "iso_a2": "PA",
-        "iso_code": "PA",
+        "iso_code": "PAN",
         "subs": [
             {
                 "name_zh": "博卡斯德尔托罗省",
@@ -23783,7 +23783,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PER",
         "iso_n3": "604",
         "iso_a2": "PE",
-        "iso_code": "PE",
+        "iso_code": "PER",
         "subs": [
             {
                 "name_zh": "塔克纳大区",
@@ -24001,7 +24001,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PHL",
         "iso_n3": "608",
         "iso_a2": "PH",
-        "iso_code": "PH",
+        "iso_code": "PHL",
         "subs": [
             {
                 "name_zh": "苏禄省",
@@ -24955,7 +24955,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PLW",
         "iso_n3": "585",
         "iso_a2": "PW",
-        "iso_code": "PW",
+        "iso_code": "PLW",
         "subs": [
             {
                 "name_zh": "佩莱利乌州",
@@ -25093,7 +25093,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PNG",
         "iso_n3": "598",
         "iso_a2": "PG",
-        "iso_code": "PG",
+        "iso_code": "PNG",
         "subs": [
             {
                 "name_zh": "桑道恩省",
@@ -25263,7 +25263,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "POL",
         "iso_n3": "616",
         "iso_a2": "PL",
-        "iso_code": "PL",
+        "iso_code": "POL",
         "subs": [
             {
                 "name_zh": "西里西亚省",
@@ -25401,7 +25401,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PRK",
         "iso_n3": "408",
         "iso_a2": "KP",
-        "iso_code": "KP",
+        "iso_code": "PRK",
         "subs": [
             {
                 "name_zh": "江原道",
@@ -25499,7 +25499,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PRT",
         "iso_n3": "620",
         "iso_a2": "PT",
-        "iso_code": "PT",
+        "iso_code": "PRT",
         "subs": [
             {
                 "name_zh": "埃武拉区",
@@ -25669,7 +25669,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "PRY",
         "iso_n3": "600",
         "iso_a2": "PY",
-        "iso_code": "PY",
+        "iso_code": "PRY",
         "subs": [
             {
                 "name_zh": "博克龙省",
@@ -25823,7 +25823,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "QAT",
         "iso_n3": "634",
         "iso_a2": "QA",
-        "iso_code": "QA",
+        "iso_code": "QAT",
         "subs": [
             {
                 "name_zh": "阿尔拉扬体育会",
@@ -25889,7 +25889,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ROU",
         "iso_n3": "642",
         "iso_a2": "RO",
-        "iso_code": "RO",
+        "iso_code": "ROU",
         "subs": [
             {
                 "name_zh": "萨图马雷县",
@@ -26235,7 +26235,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "RUS",
         "iso_n3": "643",
         "iso_a2": "RU",
-        "iso_code": "RU",
+        "iso_code": "RUS",
         "subs": [
             {
                 "name_zh": "阿尔泰共和国",
@@ -26933,7 +26933,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "RWA",
         "iso_n3": "646",
         "iso_a2": "RW",
-        "iso_code": "RW",
+        "iso_code": "RWA",
         "subs": [
             {
                 "name_zh": "东部省",
@@ -26983,7 +26983,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SAU",
         "iso_n3": "682",
         "iso_a2": "SA",
-        "iso_code": "SA",
+        "iso_code": "SAU",
         "subs": [
             {
                 "name_zh": "东部省",
@@ -27097,7 +27097,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SDN",
         "iso_n3": "729",
         "iso_a2": "SD",
-        "iso_code": "SD",
+        "iso_code": "SDN",
         "subs": [
             {
                 "name_zh": "中达尔富尔",
@@ -27243,7 +27243,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SDS",
         "iso_n3": "728",
         "iso_a2": "SS",
-        "iso_code": "SS",
+        "iso_code": "SDS",
         "subs": [
             {
                 "name_zh": "东赤道省",
@@ -27333,7 +27333,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SEN",
         "iso_n3": "686",
         "iso_a2": "SN",
-        "iso_code": "SN",
+        "iso_code": "SEN",
         "subs": [
             {
                 "name_zh": "凯杜古区",
@@ -27455,7 +27455,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SGP",
         "iso_n3": "702",
         "iso_a2": "SG",
-        "iso_code": "SG",
+        "iso_code": "SGP",
         "subs": [
             {
                 "name_zh": "西南社区发展理事会",
@@ -27505,7 +27505,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SLB",
         "iso_n3": "090",
         "iso_a2": "SB",
-        "iso_code": "SB",
+        "iso_code": "SLB",
         "subs": [
             {
                 "name_zh": "拉纳尔和贝罗纳省",
@@ -27595,7 +27595,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SLE",
         "iso_n3": "694",
         "iso_a2": "SL",
-        "iso_code": "SL",
+        "iso_code": "SLE",
         "subs": [
             {
                 "name_zh": "北方省",
@@ -27637,7 +27637,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SLV",
         "iso_n3": "222",
         "iso_a2": "SV",
-        "iso_code": "SV",
+        "iso_code": "SLV",
         "subs": [
             {
                 "name_zh": "阿瓦查潘省",
@@ -27759,7 +27759,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SMR",
         "iso_n3": "674",
         "iso_a2": "SM",
-        "iso_code": "SM",
+        "iso_code": "SMR",
         "subs": [
             {
                 "name_zh": "塞拉瓦莱",
@@ -27841,7 +27841,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SOM",
         "iso_n3": "706",
         "iso_a2": "SO",
-        "iso_code": "SO",
+        "iso_code": "SOM",
         "subs": [
             {
                 "name_zh": "努加尔州",
@@ -27955,7 +27955,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SRB",
         "iso_n3": "688",
         "iso_a2": "RS",
-        "iso_code": "RS",
+        "iso_code": "SRB",
         "subs": [
             {
                 "name_zh": "北巴奇卡州",
@@ -28165,7 +28165,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "STP",
         "iso_n3": "678",
         "iso_a2": "ST",
-        "iso_code": "ST",
+        "iso_code": "STP",
         "subs": [
             {
                 "name_zh": "圣多美",
@@ -28191,7 +28191,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SUR",
         "iso_n3": "740",
         "iso_a2": "SR",
-        "iso_code": "SR",
+        "iso_code": "SUR",
         "subs": [
             {
                 "name_zh": "锡帕利维尼区",
@@ -28281,7 +28281,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SVK",
         "iso_n3": "703",
         "iso_a2": "SK",
-        "iso_code": "SK",
+        "iso_code": "SVK",
         "subs": [
             {
                 "name_zh": "日利纳州",
@@ -28355,7 +28355,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SVN",
         "iso_n3": "705",
         "iso_a2": "SI",
-        "iso_code": "SI",
+        "iso_code": "SVN",
         "subs": [
             {
                 "name_zh": "皮兰",
@@ -29909,7 +29909,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SWE",
         "iso_n3": "752",
         "iso_a2": "SE",
-        "iso_code": "SE",
+        "iso_code": "SWE",
         "subs": [
             {
                 "name_zh": "北博滕省",
@@ -30087,7 +30087,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SWZ",
         "iso_n3": "748",
         "iso_a2": "SZ",
-        "iso_code": "SZ",
+        "iso_code": "SWZ",
         "subs": [
             {
                 "name_zh": "卢邦博",
@@ -30129,7 +30129,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SYC",
         "iso_n3": "690",
         "iso_a2": "SC",
-        "iso_code": "SC",
+        "iso_code": "SYC",
         "subs": [
             {
                 "name_zh": "塞席尔外岛",
@@ -30347,7 +30347,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "SYR",
         "iso_n3": "760",
         "iso_a2": "SY",
-        "iso_code": "SY",
+        "iso_code": "SYR",
         "subs": [
             {
                 "name_zh": "联合国脱离接触观察员部队",
@@ -30477,7 +30477,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TCD",
         "iso_n3": "148",
         "iso_a2": "TD",
-        "iso_code": "TD",
+        "iso_code": "TCD",
         "subs": [
             {
                 "name_zh": "湖区",
@@ -30663,7 +30663,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TGO",
         "iso_n3": "768",
         "iso_a2": "TG",
-        "iso_code": "TG",
+        "iso_code": "TGO",
         "subs": [
             {
                 "name_zh": "草原区",
@@ -30713,7 +30713,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "THA",
         "iso_n3": "764",
         "iso_a2": "TH",
-        "iso_code": "TH",
+        "iso_code": "THA",
         "subs": [
             {
                 "name_zh": "素林府",
@@ -31339,7 +31339,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TJK",
         "iso_n3": "762",
         "iso_a2": "TJ",
-        "iso_code": "TJ",
+        "iso_code": "TJK",
         "subs": [
             {
                 "name_zh": "苦盏",
@@ -31389,7 +31389,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TKM",
         "iso_n3": "795",
         "iso_a2": "TM",
-        "iso_code": "TM",
+        "iso_code": "TKM",
         "subs": [
             {
                 "name_zh": "列巴普州",
@@ -31439,7 +31439,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TLS",
         "iso_n3": "626",
         "iso_a2": "TL",
-        "iso_code": "TL",
+        "iso_code": "TLS",
         "subs": [
             {
                 "name_zh": "欧库西-安贝诺县",
@@ -31553,7 +31553,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TON",
         "iso_n3": "776",
         "iso_a2": "TO",
-        "iso_code": "TO",
+        "iso_code": "TON",
         "subs": [
             {
                 "name_zh": "瓦瓦乌群岛",
@@ -31603,7 +31603,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TTO",
         "iso_n3": "780",
         "iso_a2": "TT",
-        "iso_code": "TT",
+        "iso_code": "TTO",
         "subs": [
             {
                 "name_zh": "麦高耶",
@@ -31741,7 +31741,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TUN",
         "iso_n3": "788",
         "iso_a2": "TN",
-        "iso_code": "TN",
+        "iso_code": "TUN",
         "subs": [
             {
                 "name_zh": "泰塔温省",
@@ -31935,7 +31935,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TUR",
         "iso_n3": "792",
         "iso_a2": "TR",
-        "iso_code": "TR",
+        "iso_code": "TUR",
         "subs": [
             {
                 "name_zh": "阿尔达汉省",
@@ -32593,7 +32593,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TUV",
         "iso_n3": "798",
         "iso_a2": "TV",
-        "iso_code": "TV",
+        "iso_code": "TUV",
         "subs": [
             {
                 "name_zh": "图瓦卢",
@@ -32611,7 +32611,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "TZA",
         "iso_n3": "834",
         "iso_a2": "TZ",
-        "iso_code": "TZ",
+        "iso_code": "TZA",
         "subs": [
             {
                 "name_zh": "姆贝亚区",
@@ -32861,7 +32861,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "UGA",
         "iso_n3": "800",
         "iso_a2": "UG",
-        "iso_code": "UG",
+        "iso_code": "UGA",
         "subs": [
             {
                 "name_zh": "恩通加莫区",
@@ -33767,7 +33767,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "UKR",
         "iso_n3": "804",
         "iso_a2": "UA",
-        "iso_code": "UA",
+        "iso_code": "UKR",
         "subs": [
             {
                 "name_zh": "切尔尼戈夫州",
@@ -33977,7 +33977,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "URY",
         "iso_n3": "858",
         "iso_a2": "UY",
-        "iso_code": "UY",
+        "iso_code": "URY",
         "subs": [
             {
                 "name_zh": "派桑杜省",
@@ -34139,7 +34139,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "USA",
         "iso_n3": "840",
         "iso_a2": "US",
-        "iso_code": "US",
+        "iso_code": "USA",
         "subs": [
             {
                 "name_zh": "华盛顿州",
@@ -34557,7 +34557,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "UZB",
         "iso_n3": "860",
         "iso_a2": "UZ",
-        "iso_code": "UZ",
+        "iso_code": "UZB",
         "subs": [
             {
                 "name_zh": "费尔干纳州",
@@ -34679,7 +34679,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "VAT",
         "iso_n3": "336",
         "iso_a2": "VA",
-        "iso_code": "VA",
+        "iso_code": "VAT",
         "subs": [
             {
                 "name_zh": "梵蒂冈",
@@ -34697,7 +34697,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "VEN",
         "iso_n3": "862",
         "iso_a2": "VE",
-        "iso_code": "VE",
+        "iso_code": "VEN",
         "subs": [
             {
                 "name_zh": "阿马库罗三角洲州",
@@ -34915,7 +34915,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "VNM",
         "iso_n3": "704",
         "iso_a2": "VN",
-        "iso_code": "VN",
+        "iso_code": "VNM",
         "subs": [
             {
                 "name_zh": "昆嵩省",
@@ -35429,7 +35429,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "VUT",
         "iso_n3": "548",
         "iso_a2": "VU",
-        "iso_code": "VU",
+        "iso_code": "VUT",
         "subs": [
             {
                 "name_zh": "塔菲亚省",
@@ -35487,7 +35487,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "WSM",
         "iso_n3": "882",
         "iso_a2": "WS",
-        "iso_code": "WS",
+        "iso_code": "WSM",
         "subs": [
             {
                 "name_zh": "加加埃毛加",
@@ -35585,7 +35585,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "YEM",
         "iso_n3": "887",
         "iso_a2": "YE",
-        "iso_code": "YE",
+        "iso_code": "YEM",
         "subs": [
             {
                 "name_zh": "哈德拉毛省",
@@ -35763,7 +35763,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ZAF",
         "iso_n3": "710",
         "iso_a2": "ZA",
-        "iso_code": "ZA",
+        "iso_code": "ZAF",
         "subs": [
             {
                 "name_zh": "北开普省",
@@ -35845,7 +35845,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ZMB",
         "iso_n3": "894",
         "iso_a2": "ZM",
-        "iso_code": "ZM",
+        "iso_code": "ZMB",
         "subs": [
             {
                 "name_zh": "穆欽加省",
@@ -35935,7 +35935,7 @@ export const countriesAreasProvinces = [
         "iso_a3": "ZWE",
         "iso_n3": "716",
         "iso_a2": "ZW",
-        "iso_code": "ZW",
+        "iso_code": "ZWE",
         "subs": [
             {
                 "name_zh": "北马塔贝莱兰省",
