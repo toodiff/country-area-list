@@ -1,7 +1,7 @@
 {
-  "name": "countries_detail_list",
+  "name": "countries_detail_data",
   "version": "1.0.0",
-  "description": "countries and provinces or states .etc",
+  "description": "countries and provinces or states and more .etc",
   "main": "index.ts",
   "author": "tododiff",
   "license": "MIT",
