@@ -3,7 +3,7 @@
     <br/>
     👍
     <br />
-    country-area-list
+    country-data
     <br />
     <br />
   </h1>
@@ -11,13 +11,13 @@
   </sup>
   <br />
   <div align="center" style="display:none;">
-  <pre>npm i <a href="https://github.dev/toodiff/country-area-list">country-area-list</a></pre>
+  <pre>npm i <a href="https://github.dev/toodiff/country-data">country-data</a></pre>
   </div>
   <br />
   <br />
 </div>
 
-# country-area-list
+# country-data
 countries and areas, and provinces or states of country
 
 ## Usage
