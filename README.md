@@ -11,7 +11,7 @@
   </sup>
   <br />
   <div align="center" style="display:none;">
-  <pre>npm i <a href="https://github.dev/toodiff/country-data">country-data</a></pre>
+  <pre>npm i <a href="https://github.dev/toodiff/country-data"></a></pre>
   </div>
   <br />
   <br />
