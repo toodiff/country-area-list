@@ -31,7 +31,7 @@ First, you should install `yarn` library.
 
 - download GeoPackage from [Natural Earth](https://www.naturalearthdata.com/downloads/), replace `natural_earth_vector.gpkg` in `db` directory by it.  Don't upload it because of it's large size.
 
-    Execute the following command and genetate data file. Data file is in `file/countries_areas_provinces.ts`
+    Execute the following command and genetate data file. Data file is `file/countries_areas_provinces.ts`
 
     ```node 
     yarn start
@@ -39,7 +39,7 @@ First, you should install `yarn` library.
 
 - crawl data from [un.org](https://unstats.un.org/unsd/methodology/m49/)
 
-    Execute the following command and genetate data file. Data file is in `file/countries_areas.ts`
+    Execute the following command and genetate data file. Data file is `file/countries_areas.ts`
 
     ```node 
     yarn un
