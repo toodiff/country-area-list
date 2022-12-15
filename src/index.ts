@@ -74,7 +74,7 @@ db.all(`SELECT * FROM ne_10m_admin_0_countries where type="Sovereign country" or
       iso_a3: row.ADM0_A3,
       iso_n3: row.ISO_N3,
       iso_a2: row.ISO_A2,
-      iso_code: row.ISO_A2.split('-')[1] || row.ISO_A2,
+      iso_code: row.ISO_A2.split('-')[1] || row.ADM0_A3,
       subs: provinces[row.ADM0_A3] || []
     };
   
