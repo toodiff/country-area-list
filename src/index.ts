@@ -42,7 +42,7 @@ db.serialize(() => {
 
     provinces[row.adm0_a3].push({
       name_zh: row.name_zh,
-      name_en: row.name_en,
+      name_en: row.name_en === 'Tibet' ? 'xizang' : row.name_en === 'Inner Mongolia' ? 'neimenggu' : row.name_en,
       // 国家代码
       iso_a3: row.adm0_a3,
       // 子区数字代码
