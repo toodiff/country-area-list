@@ -4857,7 +4857,7 @@ export const countriesAreasProvinces = [
             },
             {
                 "name_zh": "西藏自治区",
-                "name_en": "Tibet",
+                "name_en": "xizang",
                 "iso_a3": "CHN",
                 "iso_n3": 1662,
                 "iso_32": "CN-XZ",
@@ -4865,7 +4865,7 @@ export const countriesAreasProvinces = [
             },
             {
                 "name_zh": "内蒙古自治区",
-                "name_en": "Inner Mongolia",
+                "name_en": "neimenggu",
                 "iso_a3": "CHN",
                 "iso_n3": 1838,
                 "iso_32": "CN-NM",
