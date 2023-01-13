@@ -6472,6 +6472,24 @@ export const countriesAreasProvinces = [
         ]
     },
     {
+        "name_zh": "北塞浦路斯土耳其共和国",
+        "name_en": "Turkish Republic of Northern Cyprus",
+        "iso_a3": "CYN",
+        "iso_n3": "-99",
+        "iso_a2": "-99",
+        "iso_code": "CYN",
+        "subs": [
+            {
+                "name_zh": "北塞浦路斯",
+                "name_en": "Northern Cyprus",
+                "iso_a3": "CYN",
+                "iso_n3": 10045,
+                "iso_32": "-99-X04~",
+                "iso_code": "99"
+            }
+        ]
+    },
+    {
         "name_zh": "塞浦路斯",
         "name_en": "Cyprus",
         "iso_a3": "CYP",
@@ -8980,6 +8998,824 @@ export const countriesAreasProvinces = [
                 "iso_n3": 2658,
                 "iso_32": "FJ-R",
                 "iso_code": "R"
+            }
+        ]
+    },
+    {
+        "name_zh": "法国",
+        "name_en": "France",
+        "iso_a3": "FRA",
+        "iso_n3": "-99",
+        "iso_a2": "-99",
+        "iso_code": "FRA",
+        "subs": [
+            {
+                "name_zh": "法属圭亚那",
+                "name_en": "French Guiana",
+                "iso_a3": "FRA",
+                "iso_n3": 2000,
+                "iso_32": "FR-GF",
+                "iso_code": "GF"
+            },
+            {
+                "name_zh": "诺尔省",
+                "name_en": "Nord",
+                "iso_a3": "FRA",
+                "iso_n3": 5330,
+                "iso_32": "FR-59",
+                "iso_code": "59"
+            },
+            {
+                "name_zh": "阿登省",
+                "name_en": "Ardennes",
+                "iso_a3": "FRA",
+                "iso_n3": 5268,
+                "iso_32": "FR-08",
+                "iso_code": "08"
+            },
+            {
+                "name_zh": "埃纳省",
+                "name_en": "Aisne",
+                "iso_a3": "FRA",
+                "iso_n3": 5263,
+                "iso_32": "FR-02",
+                "iso_code": "02"
+            },
+            {
+                "name_zh": "默兹省",
+                "name_en": "Meuse",
+                "iso_a3": "FRA",
+                "iso_n3": 5326,
+                "iso_32": "FR-55",
+                "iso_code": "55"
+            },
+            {
+                "name_zh": "默尔特-摩泽尔省",
+                "name_en": "Meurthe-et-Moselle",
+                "iso_a3": "FRA",
+                "iso_n3": 5325,
+                "iso_32": "FR-54",
+                "iso_code": "54"
+            },
+            {
+                "name_zh": "摩泽尔省",
+                "name_en": "Moselle",
+                "iso_a3": "FRA",
+                "iso_n3": 5328,
+                "iso_32": "FR-57",
+                "iso_code": "57"
+            },
+            {
+                "name_zh": "滨海阿尔卑斯省",
+                "name_en": "Alpes-Maritimes",
+                "iso_a3": "FRA",
+                "iso_n3": 5266,
+                "iso_32": "FR-06",
+                "iso_code": "06"
+            },
+            {
+                "name_zh": "上普罗旺斯阿尔卑斯省",
+                "name_en": "Alpes-de-Haute-Provence",
+                "iso_a3": "FRA",
+                "iso_n3": 5265,
+                "iso_32": "FR-04",
+                "iso_code": "04"
+            },
+            {
+                "name_zh": "上阿尔卑斯省",
+                "name_en": "Hautes-Alpes",
+                "iso_a3": "FRA",
+                "iso_n3": 5304,
+                "iso_32": "FR-05",
+                "iso_code": "05"
+            },
+            {
+                "name_zh": "萨瓦省",
+                "name_en": "Savoie",
+                "iso_a3": "FRA",
+                "iso_n3": 5341,
+                "iso_32": "FR-73",
+                "iso_code": "73"
+            },
+            {
+                "name_zh": "上萨瓦省",
+                "name_en": "Haute-Savoie",
+                "iso_a3": "FRA",
+                "iso_n3": 5302,
+                "iso_32": "FR-74",
+                "iso_code": "74"
+            },
+            {
+                "name_zh": "大西洋比利牛斯省",
+                "name_en": "Pyrenees-Atlantics",
+                "iso_a3": "FRA",
+                "iso_n3": 5336,
+                "iso_32": "FR-64",
+                "iso_code": "64"
+            },
+            {
+                "name_zh": "上加龙省",
+                "name_en": "Haute-Garonne",
+                "iso_a3": "FRA",
+                "iso_n3": 5298,
+                "iso_32": "FR-31",
+                "iso_code": "31"
+            },
+            {
+                "name_zh": "上比利牛斯省",
+                "name_en": "Hautes-Pyrénées",
+                "iso_a3": "FRA",
+                "iso_n3": 5305,
+                "iso_32": "FR-65",
+                "iso_code": "65"
+            },
+            {
+                "name_zh": "阿列日省",
+                "name_en": "Ariège",
+                "iso_a3": "FRA",
+                "iso_n3": 5269,
+                "iso_32": "FR-09",
+                "iso_code": "09"
+            },
+            {
+                "name_zh": "东比利牛斯省",
+                "name_en": "Pyrénées-Orientales",
+                "iso_a3": "FRA",
+                "iso_n3": 5337,
+                "iso_32": "FR-66",
+                "iso_code": "66"
+            },
+            {
+                "name_zh": "下萊茵省",
+                "name_en": "Bas-Rhin",
+                "iso_a3": "FRA",
+                "iso_n3": 5273,
+                "iso_32": "FR-67",
+                "iso_code": "67"
+            },
+            {
+                "name_zh": "上莱茵省",
+                "name_en": "Haut-Rhin",
+                "iso_a3": "FRA",
+                "iso_n3": 5296,
+                "iso_32": "FR-68",
+                "iso_code": "68"
+            },
+            {
+                "name_zh": "贝尔福地区",
+                "name_en": "Territoire de Belfort",
+                "iso_a3": "FRA",
+                "iso_n3": 5348,
+                "iso_32": "FR-90",
+                "iso_code": "90"
+            },
+            {
+                "name_zh": "杜省",
+                "name_en": "Doubs",
+                "iso_a3": "FRA",
+                "iso_n3": 5287,
+                "iso_32": "FR-25",
+                "iso_code": "25"
+            },
+            {
+                "name_zh": "安省",
+                "name_en": "Ain",
+                "iso_a3": "FRA",
+                "iso_n3": 5262,
+                "iso_32": "FR-01",
+                "iso_code": "01"
+            },
+            {
+                "name_zh": "汝拉省",
+                "name_en": "Jura",
+                "iso_a3": "FRA",
+                "iso_n3": 5312,
+                "iso_32": "FR-39",
+                "iso_code": "39"
+            },
+            {
+                "name_zh": "瓦尔省",
+                "name_en": "Var",
+                "iso_a3": "FRA",
+                "iso_n3": 5351,
+                "iso_32": "FR-83",
+                "iso_code": "83"
+            },
+            {
+                "name_zh": "罗讷河口省",
+                "name_en": "Bouches-du-Rhône",
+                "iso_a3": "FRA",
+                "iso_n3": 5274,
+                "iso_32": "FR-13",
+                "iso_code": "13"
+            },
+            {
+                "name_zh": "加尔省",
+                "name_en": "Gard",
+                "iso_a3": "FRA",
+                "iso_n3": 5293,
+                "iso_32": "FR-30",
+                "iso_code": "30"
+            },
+            {
+                "name_zh": "埃罗省",
+                "name_en": "Hérault",
+                "iso_a3": "FRA",
+                "iso_n3": 5307,
+                "iso_32": "FR-34",
+                "iso_code": "34"
+            },
+            {
+                "name_zh": "奥德省",
+                "name_en": "Aude",
+                "iso_a3": "FRA",
+                "iso_n3": 5271,
+                "iso_32": "FR-11",
+                "iso_code": "11"
+            },
+            {
+                "name_zh": "朗德省",
+                "name_en": "Landes",
+                "iso_a3": "FRA",
+                "iso_n3": 5313,
+                "iso_32": "FR-40",
+                "iso_code": "40"
+            },
+            {
+                "name_zh": "吉伦特省",
+                "name_en": "Gironde",
+                "iso_a3": "FRA",
+                "iso_n3": 5295,
+                "iso_32": "FR-33",
+                "iso_code": "33"
+            },
+            {
+                "name_zh": "滨海夏朗德省",
+                "name_en": "Charente-Maritime",
+                "iso_a3": "FRA",
+                "iso_n3": 5278,
+                "iso_32": "FR-17",
+                "iso_code": "17"
+            },
+            {
+                "name_zh": "旺代省",
+                "name_en": "Vendée",
+                "iso_a3": "FRA",
+                "iso_n3": 5353,
+                "iso_32": "FR-85",
+                "iso_code": "85"
+            },
+            {
+                "name_zh": "大西洋卢瓦尔省",
+                "name_en": "Loire-Atlantique",
+                "iso_a3": "FRA",
+                "iso_n3": 5316,
+                "iso_32": "FR-44",
+                "iso_code": "44"
+            },
+            {
+                "name_zh": "莫尔比昂省",
+                "name_en": "Morbihan",
+                "iso_a3": "FRA",
+                "iso_n3": 5327,
+                "iso_32": "FR-56",
+                "iso_code": "56"
+            },
+            {
+                "name_zh": "菲尼斯泰尔省",
+                "name_en": "Finistère",
+                "iso_a3": "FRA",
+                "iso_n3": 5292,
+                "iso_32": "FR-29",
+                "iso_code": "29"
+            },
+            {
+                "name_zh": "阿摩尔滨海省",
+                "name_en": "Côtes-d'Armor",
+                "iso_a3": "FRA",
+                "iso_n3": 5283,
+                "iso_32": "FR-22",
+                "iso_code": "22"
+            },
+            {
+                "name_zh": "伊勒-维莱讷省",
+                "name_en": "Ille-et-Vilaine",
+                "iso_a3": "FRA",
+                "iso_n3": 5308,
+                "iso_32": "FR-35",
+                "iso_code": "35"
+            },
+            {
+                "name_zh": "芒什省",
+                "name_en": "Manche",
+                "iso_a3": "FRA",
+                "iso_n3": 5322,
+                "iso_32": "FR-50",
+                "iso_code": "50"
+            },
+            {
+                "name_zh": "卡尔瓦多斯省",
+                "name_en": "Calvados",
+                "iso_a3": "FRA",
+                "iso_n3": 5275,
+                "iso_32": "FR-14",
+                "iso_code": "14"
+            },
+            {
+                "name_zh": "厄尔省",
+                "name_en": "Eure",
+                "iso_a3": "FRA",
+                "iso_n3": 5290,
+                "iso_32": "FR-27",
+                "iso_code": "27"
+            },
+            {
+                "name_zh": "滨海塞纳省",
+                "name_en": "Seine-Maritime",
+                "iso_a3": "FRA",
+                "iso_n3": 5343,
+                "iso_32": "FR-76",
+                "iso_code": "76"
+            },
+            {
+                "name_zh": "索姆省",
+                "name_en": "Somme",
+                "iso_a3": "FRA",
+                "iso_n3": 5345,
+                "iso_32": "FR-80",
+                "iso_code": "80"
+            },
+            {
+                "name_zh": "加来海峡省",
+                "name_en": "Pas-de-Calais",
+                "iso_a3": "FRA",
+                "iso_n3": 5334,
+                "iso_32": "FR-62",
+                "iso_code": "62"
+            },
+            {
+                "name_zh": "马提尼克",
+                "name_en": "Martinique",
+                "iso_a3": "FRA",
+                "iso_n3": 1442,
+                "iso_32": "FR-MQ",
+                "iso_code": "MQ"
+            },
+            {
+                "name_zh": "瓜德罗普",
+                "name_en": "Guadeloupe",
+                "iso_a3": "FRA",
+                "iso_n3": 4603,
+                "iso_32": "FR-GP",
+                "iso_code": "GP"
+            },
+            {
+                "name_zh": "留尼汪",
+                "name_en": "Réunion",
+                "iso_a3": "FRA",
+                "iso_n3": 4601,
+                "iso_32": "FR-RE",
+                "iso_code": "RE"
+            },
+            {
+                "name_zh": "马约特",
+                "name_en": "Mayotte",
+                "iso_a3": "FRA",
+                "iso_n3": 4602,
+                "iso_32": "FR-YT",
+                "iso_code": "YT"
+            },
+            {
+                "name_zh": "上科西嘉",
+                "name_en": "Haute-Corse",
+                "iso_a3": "FRA",
+                "iso_n3": 5297,
+                "iso_32": "FR-2B",
+                "iso_code": "2B"
+            },
+            {
+                "name_zh": "南科西嘉",
+                "name_en": "Corse-du-Sud",
+                "iso_a3": "FRA",
+                "iso_n3": 5281,
+                "iso_32": "FR-2A",
+                "iso_code": "2A"
+            },
+            {
+                "name_zh": "热尔省",
+                "name_en": "Gers",
+                "iso_a3": "FRA",
+                "iso_n3": 5294,
+                "iso_32": "FR-32",
+                "iso_code": "32"
+            },
+            {
+                "name_zh": "上维埃纳省",
+                "name_en": "Haute-Vienne",
+                "iso_a3": "FRA",
+                "iso_n3": 5303,
+                "iso_32": "FR-87",
+                "iso_code": "87"
+            },
+            {
+                "name_zh": "科雷兹省",
+                "name_en": "Corrèze",
+                "iso_a3": "FRA",
+                "iso_n3": 5280,
+                "iso_32": "FR-19",
+                "iso_code": "19"
+            },
+            {
+                "name_zh": "塔恩-加龙省",
+                "name_en": "Tarn-et-Garonne",
+                "iso_a3": "FRA",
+                "iso_n3": 5347,
+                "iso_32": "FR-82",
+                "iso_code": "82"
+            },
+            {
+                "name_zh": "塔恩省",
+                "name_en": "Tarn",
+                "iso_a3": "FRA",
+                "iso_n3": 5346,
+                "iso_32": "FR-81",
+                "iso_code": "81"
+            },
+            {
+                "name_zh": "伊泽尔省",
+                "name_en": "Isère",
+                "iso_a3": "FRA",
+                "iso_n3": 5311,
+                "iso_32": "FR-38",
+                "iso_code": "38"
+            },
+            {
+                "name_zh": "德龙省",
+                "name_en": "Drôme",
+                "iso_a3": "FRA",
+                "iso_n3": 5288,
+                "iso_32": "FR-26",
+                "iso_code": "26"
+            },
+            {
+                "name_zh": "阿韦龙省",
+                "name_en": "Aveyron",
+                "iso_a3": "FRA",
+                "iso_n3": 5272,
+                "iso_32": "FR-12",
+                "iso_code": "12"
+            },
+            {
+                "name_zh": "洛特省",
+                "name_en": "Lot",
+                "iso_a3": "FRA",
+                "iso_n3": 5318,
+                "iso_32": "FR-46",
+                "iso_code": "46"
+            },
+            {
+                "name_zh": "安德尔-卢瓦尔省",
+                "name_en": "Indre-et-Loire",
+                "iso_a3": "FRA",
+                "iso_n3": 5310,
+                "iso_32": "FR-37",
+                "iso_code": "37"
+            },
+            {
+                "name_zh": "安德尔省",
+                "name_en": "Indre",
+                "iso_a3": "FRA",
+                "iso_n3": 5309,
+                "iso_32": "FR-36",
+                "iso_code": "36"
+            },
+            {
+                "name_zh": "卢瓦-谢尔省",
+                "name_en": "Loir-et-Cher",
+                "iso_a3": "FRA",
+                "iso_n3": 5314,
+                "iso_32": "FR-41",
+                "iso_code": "41"
+            },
+            {
+                "name_zh": "克勒兹省",
+                "name_en": "Creuse",
+                "iso_a3": "FRA",
+                "iso_n3": 5284,
+                "iso_32": "FR-23",
+                "iso_code": "23"
+            },
+            {
+                "name_zh": "马耶讷省",
+                "name_en": "Mayenne",
+                "iso_a3": "FRA",
+                "iso_n3": 5324,
+                "iso_32": "FR-53",
+                "iso_code": "53"
+            },
+            {
+                "name_zh": "萨尔特省",
+                "name_en": "Sarthe",
+                "iso_a3": "FRA",
+                "iso_n3": 5340,
+                "iso_32": "FR-72",
+                "iso_code": "72"
+            },
+            {
+                "name_zh": "沃克吕兹省",
+                "name_en": "Vaucluse",
+                "iso_a3": "FRA",
+                "iso_n3": 5352,
+                "iso_32": "FR-84",
+                "iso_code": "84"
+            },
+            {
+                "name_zh": "上马恩省",
+                "name_en": "Haute-Marne",
+                "iso_a3": "FRA",
+                "iso_n3": 5300,
+                "iso_32": "FR-52",
+                "iso_code": "52"
+            },
+            {
+                "name_zh": "马恩省",
+                "name_en": "Marne",
+                "iso_a3": "FRA",
+                "iso_n3": 5323,
+                "iso_32": "FR-51",
+                "iso_code": "51"
+            },
+            {
+                "name_zh": "多尔多涅省",
+                "name_en": "Dordogne",
+                "iso_a3": "FRA",
+                "iso_n3": 5286,
+                "iso_32": "FR-24",
+                "iso_code": "24"
+            },
+            {
+                "name_zh": "罗讷省",
+                "name_en": "Rhône",
+                "iso_a3": "FRA",
+                "iso_n3": 5338,
+                "iso_32": "FR-69",
+                "iso_code": "69"
+            },
+            {
+                "name_zh": "孚日省",
+                "name_en": "Vosges",
+                "iso_a3": "FRA",
+                "iso_n3": 5355,
+                "iso_32": "FR-88",
+                "iso_code": "88"
+            },
+            {
+                "name_zh": "阿尔代什省",
+                "name_en": "Ardèche",
+                "iso_a3": "FRA",
+                "iso_n3": 5267,
+                "iso_32": "FR-07",
+                "iso_code": "07"
+            },
+            {
+                "name_zh": "卢瓦尔省",
+                "name_en": "Loire",
+                "iso_a3": "FRA",
+                "iso_n3": 5315,
+                "iso_32": "FR-42",
+                "iso_code": "42"
+            },
+            {
+                "name_zh": "多姆山省",
+                "name_en": "Puy-de-Dôme",
+                "iso_a3": "FRA",
+                "iso_n3": 5335,
+                "iso_32": "FR-63",
+                "iso_code": "63"
+            },
+            {
+                "name_zh": "阿列省",
+                "name_en": "Allier",
+                "iso_a3": "FRA",
+                "iso_n3": 5264,
+                "iso_32": "FR-03",
+                "iso_code": "03"
+            },
+            {
+                "name_zh": "卢瓦雷省",
+                "name_en": "Loiret",
+                "iso_a3": "FRA",
+                "iso_n3": 5317,
+                "iso_32": "FR-45",
+                "iso_code": "45"
+            },
+            {
+                "name_zh": "曼恩-卢瓦尔省",
+                "name_en": "Maine-et-Loire",
+                "iso_a3": "FRA",
+                "iso_n3": 5321,
+                "iso_32": "FR-49",
+                "iso_code": "49"
+            },
+            {
+                "name_zh": "奥布省",
+                "name_en": "Aube",
+                "iso_a3": "FRA",
+                "iso_n3": 5270,
+                "iso_32": "FR-10",
+                "iso_code": "10"
+            },
+            {
+                "name_zh": "巴黎",
+                "name_en": "Paris",
+                "iso_a3": "FRA",
+                "iso_n3": 5333,
+                "iso_32": "FR-75",
+                "iso_code": "75"
+            },
+            {
+                "name_zh": "上塞纳省",
+                "name_en": "Hauts-de-Seine",
+                "iso_a3": "FRA",
+                "iso_n3": 5306,
+                "iso_32": "FR-92",
+                "iso_code": "92"
+            },
+            {
+                "name_zh": "塞纳-圣但尼省",
+                "name_en": "Seine-Saint-Denis",
+                "iso_a3": "FRA",
+                "iso_n3": 5344,
+                "iso_32": "FR-93",
+                "iso_code": "93"
+            },
+            {
+                "name_zh": "瓦勒德瓦兹省",
+                "name_en": "Val-d'Oise",
+                "iso_a3": "FRA",
+                "iso_n3": 5349,
+                "iso_32": "FR-95",
+                "iso_code": "95"
+            },
+            {
+                "name_zh": "伊夫林省",
+                "name_en": "Yvelines",
+                "iso_a3": "FRA",
+                "iso_n3": 5357,
+                "iso_32": "FR-78",
+                "iso_code": "78"
+            },
+            {
+                "name_zh": "夏朗德省",
+                "name_en": "Charente",
+                "iso_a3": "FRA",
+                "iso_n3": 5277,
+                "iso_32": "FR-16",
+                "iso_code": "16"
+            },
+            {
+                "name_zh": "谢尔省",
+                "name_en": "Cher",
+                "iso_a3": "FRA",
+                "iso_n3": 5279,
+                "iso_32": "FR-18",
+                "iso_code": "18"
+            },
+            {
+                "name_zh": "厄尔-卢瓦省",
+                "name_en": "Eure-et-Loir",
+                "iso_a3": "FRA",
+                "iso_n3": 5291,
+                "iso_32": "FR-28",
+                "iso_code": "28"
+            },
+            {
+                "name_zh": "上卢瓦尔省",
+                "name_en": "Haute-Loire",
+                "iso_a3": "FRA",
+                "iso_n3": 5299,
+                "iso_32": "FR-43",
+                "iso_code": "43"
+            },
+            {
+                "name_zh": "康塔尔省",
+                "name_en": "Cantal",
+                "iso_a3": "FRA",
+                "iso_n3": 5276,
+                "iso_32": "FR-15",
+                "iso_code": "15"
+            },
+            {
+                "name_zh": "洛特-加龙省",
+                "name_en": "Lot-et-Garonne",
+                "iso_a3": "FRA",
+                "iso_n3": 5319,
+                "iso_32": "FR-47",
+                "iso_code": "47"
+            },
+            {
+                "name_zh": "洛泽尔省",
+                "name_en": "Lozère",
+                "iso_a3": "FRA",
+                "iso_n3": 5320,
+                "iso_32": "FR-48",
+                "iso_code": "48"
+            },
+            {
+                "name_zh": "涅夫勒省",
+                "name_en": "Nièvre",
+                "iso_a3": "FRA",
+                "iso_n3": 5329,
+                "iso_32": "FR-58",
+                "iso_code": "58"
+            },
+            {
+                "name_zh": "科多尔省",
+                "name_en": "Côte-d’Or",
+                "iso_a3": "FRA",
+                "iso_n3": 5282,
+                "iso_32": "FR-21",
+                "iso_code": "21"
+            },
+            {
+                "name_zh": "瓦兹省",
+                "name_en": "Oise",
+                "iso_a3": "FRA",
+                "iso_n3": 5331,
+                "iso_32": "FR-60",
+                "iso_code": "60"
+            },
+            {
+                "name_zh": "奥恩省",
+                "name_en": "Orne",
+                "iso_a3": "FRA",
+                "iso_n3": 5332,
+                "iso_32": "FR-61",
+                "iso_code": "61"
+            },
+            {
+                "name_zh": "上索恩省",
+                "name_en": "Haute-Saône",
+                "iso_a3": "FRA",
+                "iso_n3": 5301,
+                "iso_32": "FR-70",
+                "iso_code": "70"
+            },
+            {
+                "name_zh": "索恩-卢瓦尔省",
+                "name_en": "Saône-et-Loire",
+                "iso_a3": "FRA",
+                "iso_n3": 5339,
+                "iso_32": "FR-71",
+                "iso_code": "71"
+            },
+            {
+                "name_zh": "德塞夫勒省",
+                "name_en": "Deux-Sèvres",
+                "iso_a3": "FRA",
+                "iso_n3": 5285,
+                "iso_32": "FR-79",
+                "iso_code": "79"
+            },
+            {
+                "name_zh": "維埃納省",
+                "name_en": "Vienne",
+                "iso_a3": "FRA",
+                "iso_n3": 5354,
+                "iso_32": "FR-86",
+                "iso_code": "86"
+            },
+            {
+                "name_zh": "约讷省",
+                "name_en": "Yonne",
+                "iso_a3": "FRA",
+                "iso_n3": 5356,
+                "iso_32": "FR-89",
+                "iso_code": "89"
+            },
+            {
+                "name_zh": "埃松省",
+                "name_en": "Essonne",
+                "iso_a3": "FRA",
+                "iso_n3": 5289,
+                "iso_32": "FR-91",
+                "iso_code": "91"
+            },
+            {
+                "name_zh": "塞纳-马恩省",
+                "name_en": "Seine-et-Marne",
+                "iso_a3": "FRA",
+                "iso_n3": 5342,
+                "iso_32": "FR-77",
+                "iso_code": "77"
+            },
+            {
+                "name_zh": "马恩河谷省",
+                "name_en": "Val-de-Marne",
+                "iso_a3": "FRA",
+                "iso_n3": 5350,
+                "iso_32": "FR-94",
+                "iso_code": "94"
             }
         ]
     },
@@ -23054,6 +23890,176 @@ export const countriesAreasProvinces = [
         ]
     },
     {
+        "name_zh": "挪威",
+        "name_en": "Norway",
+        "iso_a3": "NOR",
+        "iso_n3": "-99",
+        "iso_a2": "-99",
+        "iso_code": "NOR",
+        "subs": [
+            {
+                "name_zh": "特罗姆斯",
+                "name_en": "Troms",
+                "iso_a3": "NOR",
+                "iso_n3": 900,
+                "iso_32": "NO-19",
+                "iso_code": "19"
+            },
+            {
+                "name_zh": "诺尔兰郡",
+                "name_en": "Nordland",
+                "iso_a3": "NOR",
+                "iso_n3": 75,
+                "iso_32": "NO-18",
+                "iso_code": "18"
+            },
+            {
+                "name_zh": "北特倫德拉格",
+                "name_en": "Nord-Trøndelag",
+                "iso_a3": "NOR",
+                "iso_n3": 925,
+                "iso_32": "NO-17",
+                "iso_code": "17"
+            },
+            {
+                "name_zh": "南特伦德拉格",
+                "name_en": "Sør-Trøndelag",
+                "iso_a3": "NOR",
+                "iso_n3": 911,
+                "iso_32": "NO-16",
+                "iso_code": "16"
+            },
+            {
+                "name_zh": "海德马克",
+                "name_en": "Hedmark",
+                "iso_a3": "NOR",
+                "iso_n3": 919,
+                "iso_32": "NO-04",
+                "iso_code": "04"
+            },
+            {
+                "name_zh": "阿克什胡斯",
+                "name_en": "Akershus",
+                "iso_a3": "NOR",
+                "iso_n3": 917,
+                "iso_32": "NO-02",
+                "iso_code": "02"
+            },
+            {
+                "name_zh": "东福尔",
+                "name_en": "Østfold",
+                "iso_a3": "NOR",
+                "iso_n3": 924,
+                "iso_32": "NO-01",
+                "iso_code": "01"
+            },
+            {
+                "name_zh": "芬马克",
+                "name_en": "Finnmark",
+                "iso_a3": "NOR",
+                "iso_n3": 1062,
+                "iso_32": "NO-20",
+                "iso_code": "20"
+            },
+            {
+                "name_zh": "奥斯陆",
+                "name_en": "Oslo",
+                "iso_a3": "NOR",
+                "iso_n3": 921,
+                "iso_32": "NO-03",
+                "iso_code": "03"
+            },
+            {
+                "name_zh": "布斯克吕",
+                "name_en": "Buskerud",
+                "iso_a3": "NOR",
+                "iso_n3": 918,
+                "iso_32": "NO-06",
+                "iso_code": "06"
+            },
+            {
+                "name_zh": "西福尔",
+                "name_en": "Vestfold",
+                "iso_a3": "NOR",
+                "iso_n3": 923,
+                "iso_32": "NO-07",
+                "iso_code": "07"
+            },
+            {
+                "name_zh": "泰勒马克",
+                "name_en": "Telemark",
+                "iso_a3": "NOR",
+                "iso_n3": 922,
+                "iso_32": "NO-08",
+                "iso_code": "08"
+            },
+            {
+                "name_zh": "东阿格德尔",
+                "name_en": "Aust-Agder",
+                "iso_a3": "NOR",
+                "iso_n3": 912,
+                "iso_32": "NO-09",
+                "iso_code": "09"
+            },
+            {
+                "name_zh": "西阿格德尔",
+                "name_en": "Vest-Agder",
+                "iso_a3": "NOR",
+                "iso_n3": 916,
+                "iso_32": "NO-10",
+                "iso_code": "10"
+            },
+            {
+                "name_zh": "罗加兰郡",
+                "name_en": "Rogaland",
+                "iso_a3": "NOR",
+                "iso_n3": 914,
+                "iso_32": "NO-11",
+                "iso_code": "11"
+            },
+            {
+                "name_zh": "霍达兰",
+                "name_en": "Hordaland",
+                "iso_a3": "NOR",
+                "iso_n3": 913,
+                "iso_32": "NO-12",
+                "iso_code": "12"
+            },
+            {
+                "name_zh": "松恩-菲尤拉讷",
+                "name_en": "Sogn og Fjordane",
+                "iso_a3": "NOR",
+                "iso_n3": 915,
+                "iso_32": "NO-14",
+                "iso_code": "14"
+            },
+            {
+                "name_zh": "默勒-鲁姆斯达尔郡",
+                "name_en": "Møre og Romsdal",
+                "iso_a3": "NOR",
+                "iso_n3": 910,
+                "iso_32": "NO-15",
+                "iso_code": "15"
+            },
+            {
+                "name_zh": "斯瓦尔巴",
+                "name_en": "Svalbard",
+                "iso_a3": "NOR",
+                "iso_n3": 901,
+                "iso_32": "NO-21",
+                "iso_code": "21"
+            },
+            {
+                "name_zh": "奥普兰",
+                "name_en": "Oppland",
+                "iso_a3": "NOR",
+                "iso_n3": 920,
+                "iso_32": "NO-05",
+                "iso_code": "05"
+            }
+        ]
+    },
+    {
         "name_zh": "尼泊尔",
         "name_en": "Nepal",
         "iso_a3": "NPL",
@@ -27832,6 +28838,24 @@ export const countriesAreasProvinces = [
                 "iso_n3": 4883,
                 "iso_32": "SM-06",
                 "iso_code": "06"
+            }
+        ]
+    },
+    {
+        "name_zh": "索马里兰",
+        "name_en": "Somaliland",
+        "iso_a3": "SOL",
+        "iso_n3": "-99",
+        "iso_a2": "-99",
+        "iso_code": "SOL",
+        "subs": [
+            {
+                "name_zh": "索马里兰",
+                "name_en": "Somaliland",
+                "iso_a3": "SOL",
+                "iso_n3": 10159,
+                "iso_32": "-99-X11~",
+                "iso_code": "99"
             }
         ]
     },
