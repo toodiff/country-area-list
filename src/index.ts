@@ -74,7 +74,7 @@ db.all(`SELECT * FROM ne_10m_admin_0_countries where type="Sovereign country" or
       iso_a3: row.ADM0_A3,
       iso_n3: row.ISO_N3,
       iso_a2: row.ISO_A2,
-      iso_code: row.ISO_A2.split('-')[1] || row.ADM0_A3,
+      iso_code: String(row.ISO_A2) !== '-99' ? row.ISO_A2.split('-')[1] || row.ADM0_A3 : row.ADM0_A3,
       subs: provinces[row.ADM0_A3] || []
     };
   
@@ -83,7 +83,7 @@ db.all(`SELECT * FROM ne_10m_admin_0_countries where type="Sovereign country" or
     // FCLASS_ISO有dependency代表不是国家, 但很难把区域归类, 这里定义了映射
     if(!row.ISO_A2 || !row.FCLASS_ISO){
       return;
-    }else if(row.ISO_A2.indexOf('-') > -1){
+    }else if(row.ISO_A2.indexOf('-') > -1 && String(row.ISO_A2) !== '-99'){
 
       let countryA2 = row.ISO_A2.split('-')[0];
       if(!areas[countryA2]){
