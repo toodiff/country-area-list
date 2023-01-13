@@ -67,6 +67,8 @@ db.all(`SELECT * FROM ne_10m_admin_0_countries where type="Sovereign country" or
   let areas: {[key: string]: any[]} = {};
   rows.map((row) => {
     //console.log(row.fid + "\t" + row.NAME_ZH + "\t" + row.ADM0_A3_CN);
+    // 有些国家ISO_A2为-99, 要进行处理
+
     let temp = {
       name_zh: row.ADM0_A3 === 'TWN' ? '台湾' : row.NAME_ZH,
       name_en: row.NAME_EN,
